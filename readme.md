@@ -21,8 +21,7 @@ This plugin allows you to do this very easily. You just need to go on <strong>Pe
 
 If you leave the some post-type fields empty. So, <strong>Permalinks Customizer</strong> would create a permalink for that post-type by using the default <strong>permalink</strong> settings.
 
-> <strong>How to Configure Permalinks Customizer</strong>
-> 
+<strong>How to Configure Permalinks Customizer</strong>
 > You can configure the plugin by going to the menu `Permalinks Customizer` that appears in your admin menu.<br><br><strong>                                   OR</strong><br><br> http://www.example.com/wp-admin/admin.php?page=permalinks-customizer-settings
 
 <strong>Structure Tags</strong>
