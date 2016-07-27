@@ -348,7 +348,7 @@ function permalinks_customizer_request($query) {
 
 function permalinks_customizer_get_sample_permalink_html($html, $id, $new_title, $new_slug) {
    $permalink = get_post_meta( $id, 'permalink_customizer', true );
-   $post = &get_post($id);
+   $post = get_post($id);
   
    ob_start();
    ?>
